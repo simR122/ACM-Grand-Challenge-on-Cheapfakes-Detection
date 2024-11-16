@@ -1,6 +1,9 @@
-## ACM Grand Challenge on Cheapfakes Detection (2023)
+# ACM Grand Challenge on Cheapfakes Detection (2023)
 
-Developed a Flask application for fake news detection, specifically targeting cheapfakes (miscontextualization).
+This project was developed as part of the ACM Grand Challenge on Cheapfakes Detection (2023). It addresses the critical task of identifying cheapfakes—instances of miscontextualized or misleading media content.
+
+## About the Project
+This repository contains a Flask application designed to detect fake news, with a particular focus on cheapfakes. The system leverages [brief description of any key technologies or methodologies, e.g., machine learning, natural language processing, etc.] to identify and classify misleading content effectively.
 
 ## Dataset(COSMOS):
 - Train: 160K images, 360K captions
